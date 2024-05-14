@@ -243,10 +243,13 @@ Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and ot
 
 H<sub>2</sub>O
 
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
+X<sup>n</sup> + Y<sup>n</sup> = Z<sup>s</sup>
 
 Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
 
 Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
 
  
+
+ 
+# <mark> JUAMAYA 🍺 2024</mark>
