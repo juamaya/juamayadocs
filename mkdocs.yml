@@ -1,0 +1,13 @@
+site_name: JuamayaDocs
+site_url: https://juamaya.githuh.io
+
+nav:
+  - Home: index.md
+  - Markdown: markdown.md
+  - Recursos web: recursos.md
+  - React: react.md
+  - Astro: astro.md
+  - Docusaurus: docusaurus.md
+
+theme: material
+#theme: readthedocs 
